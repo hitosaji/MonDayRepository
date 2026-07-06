@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HP回復/HP回復.vcxproj" Id="fd87cf70-986e-45c3-9e39-c257b131b69e" />
+</Solution>
