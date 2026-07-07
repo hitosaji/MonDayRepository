@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="じゃんけん/じゃんけん.vcxproj" />
+  <Project Path="じゃんけん/じゃんけん.vcxproj" Id="410b9456-fcfb-45dd-88af-f3bf70f1b9ab" />
 </Solution>
